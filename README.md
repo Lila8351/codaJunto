@@ -1,7 +1,5 @@
 # codaJunto
 
-# codaJunto - social network
-
 ## Descrição do Projeto
 
 Este é um projeto de uma rede social completo, desenvolvido com Angular, Firebase e NgRx. Ele oferece funcionalidades avançadas, como feed de notícias, perfis e portfólios de usuários, integração com APIs de terceiros (GitHub, LinkedIn, Google, Facebook), autenticação segura, conformidade com a LGPD e a possibilidade de interação entre usuários por meio de um serviço de chat em tempo real.
