@@ -1,6 +1,6 @@
 # codaJunto
 
-# Rede Social - Seu Nome Aqui
+# codaJunto - social network
 
 ## Descrição do Projeto
 
